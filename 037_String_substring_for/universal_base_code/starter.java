@@ -1,0 +1,18 @@
+import pkg.*;
+import java.util.Scanner;
+import java.util.Random;
+
+
+class starter {
+	public static void main(String args[]) {
+		// Your code goes below here
+String str = "abcdef";
+
+for (int rep = 0; rep < str.length() -1;)
+		
+		
+		
+	}
+
+	
+}
